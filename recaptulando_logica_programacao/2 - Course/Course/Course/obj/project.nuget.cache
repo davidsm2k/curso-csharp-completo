@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qynR6InbLxFZZfwpb9Sos92vYVES+UqdIsVpUJA9Qz4Z2tcaQv9fvtx/j06jJlTxbAjrevzacxh7Idx0D69uMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\Udemy\\C# COMPLETO Programação Orientada a Objetos + Projetos\\recaptulando_logica_programacao\\2 - Course\\Course\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

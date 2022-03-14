@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\bin\Debug\net5.0\op_arit.exe
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\bin\Debug\net5.0\op_arit.deps.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\bin\Debug\net5.0\op_arit.runtimeconfig.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\bin\Debug\net5.0\op_arit.runtimeconfig.dev.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\bin\Debug\net5.0\op_arit.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\bin\Debug\net5.0\op_arit.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.AssemblyInfo.cs
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\refint\op_arit.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\op_arit.genruntimeconfig.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\3 - Op_aritmetica\op_arit\op_arit\obj\Debug\net5.0\ref\op_arit.dll
