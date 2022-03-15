@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\bin\Debug\net5.0\Op_comp.exe
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\bin\Debug\net5.0\Op_comp.deps.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\bin\Debug\net5.0\Op_comp.runtimeconfig.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\bin\Debug\net5.0\Op_comp.runtimeconfig.dev.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\bin\Debug\net5.0\Op_comp.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\bin\Debug\net5.0\Op_comp.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.AssemblyInfo.cs
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\refint\Op_comp.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\Op_comp.genruntimeconfig.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\5 - Op_comparativos\Op_comp\Op_comp\obj\Debug\net5.0\ref\Op_comp.dll
