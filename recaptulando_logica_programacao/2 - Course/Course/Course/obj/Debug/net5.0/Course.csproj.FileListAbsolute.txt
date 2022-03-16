@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\bin\Debug\net5.0\Course.exe
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\bin\Debug\net5.0\Course.deps.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\bin\Debug\net5.0\Course.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\bin\Debug\net5.0\Course.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\refint\Course.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\2 - Course\Course\Course\obj\Debug\net5.0\ref\Course.dll

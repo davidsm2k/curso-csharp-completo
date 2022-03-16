@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\bin\Debug\net5.0\entrada_dados.exe
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\bin\Debug\net5.0\entrada_dados.deps.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\bin\Debug\net5.0\entrada_dados.runtimeconfig.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\bin\Debug\net5.0\entrada_dados.runtimeconfig.dev.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\bin\Debug\net5.0\entrada_dados.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\bin\Debug\net5.0\entrada_dados.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.AssemblyInfo.cs
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\refint\entrada_dados.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\entrada_dados.genruntimeconfig.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\4 - Entrada_dados\entrada_dados\entrada_dados\obj\Debug\net5.0\ref\entrada_dados.dll
