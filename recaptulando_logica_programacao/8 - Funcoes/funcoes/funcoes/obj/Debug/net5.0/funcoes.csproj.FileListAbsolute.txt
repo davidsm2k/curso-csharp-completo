@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\bin\Debug\net5.0\funcoes.exe
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\bin\Debug\net5.0\funcoes.deps.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\bin\Debug\net5.0\funcoes.runtimeconfig.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\bin\Debug\net5.0\funcoes.runtimeconfig.dev.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\bin\Debug\net5.0\funcoes.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\bin\Debug\net5.0\funcoes.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.AssemblyInfo.cs
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\refint\funcoes.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\funcoes.genruntimeconfig.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\8 - Funcoes\funcoes\funcoes\obj\Debug\net5.0\ref\funcoes.dll
