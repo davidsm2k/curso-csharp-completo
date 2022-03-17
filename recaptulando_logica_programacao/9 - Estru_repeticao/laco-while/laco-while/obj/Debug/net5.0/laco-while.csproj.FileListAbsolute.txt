@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\bin\Debug\net5.0\laco-while.exe
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\bin\Debug\net5.0\laco-while.deps.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\bin\Debug\net5.0\laco-while.runtimeconfig.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\bin\Debug\net5.0\laco-while.runtimeconfig.dev.json
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\bin\Debug\net5.0\laco-while.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\bin\Debug\net5.0\laco-while.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.AssemblyInfo.cs
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\refint\laco-while.dll
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.pdb
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\laco-while.genruntimeconfig.cache
+C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\recaptulando_logica_programacao\9 - Estru_rep_while\laco-while\laco-while\obj\Debug\net5.0\ref\laco-while.dll
