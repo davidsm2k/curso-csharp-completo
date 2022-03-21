@@ -11,14 +11,14 @@ namespace solucao_com_oo
             Triangulo y = new Triangulo();
 
             Console.WriteLine("Entre com as medidas do triangulo X: ");
-            x.SetLadoA(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
-            x.SetLadoB(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
-            x.SetLadoC(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
+            x.ladoA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.ladoB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.ladoC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Entre com as medidas do triangulo Y: ");
-            y.SetLadoA(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
-            y.SetLadoB(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
-            y.SetLadoC(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
+            y.ladoA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.ladoB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.ladoC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine($"Área de X = {x.Area().ToString("F4", CultureInfo.InvariantCulture)}");
             Console.WriteLine($"Área de Y = {y.Area().ToString("F4", CultureInfo.InvariantCulture)}");
