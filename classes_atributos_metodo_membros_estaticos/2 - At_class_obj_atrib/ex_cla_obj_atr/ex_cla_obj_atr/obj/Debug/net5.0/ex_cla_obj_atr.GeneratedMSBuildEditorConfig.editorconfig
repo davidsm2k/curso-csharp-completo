@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ex_cla_obj_atr
+build_property.ProjectDir = C:\Users\david\Desktop\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\classes_atributos_metodo_membros_estaticos\2 - At_class_obj_atrib\ex_cla_obj_atr\ex_cla_obj_atr\
